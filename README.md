@@ -2,16 +2,16 @@
 
 # Custom Firmware by Mr Postman
 
-Version: 1.1.5.16
+**Version: 1.1.5.16**
 - Compatible with emojis
 - Bold font type menu
 - Based on the firmware stock
 
-Requirements:
+**Requirements:**
 - Hardware version only: v0.11.19.5, v0.11.2.4, v0.11.2.5
 - Latest official firmware version installed from App Mi Fit (Google Play)
 
-Tutorial:
+**Tutorial:**
 - Unlink clock from the My Fit App
 - Install following an order, with the App Notify & Fitness for Amazfit
 ```sh
@@ -21,10 +21,10 @@ ES_11516A_MrPostman.fw (md5: b66ef6aabadc50c068391865b9a5abcb)
 ```
 - Info: Do not use the My Fit App version Google Play, use the version of Mr Postman.
 
-Screeshots:
+**Screeshots:**
 Coming soon!
 
-Legal:
+**Legal:**
 > The unofficial firmware, or Mr. Postman, or AzagraMac, are not responsible for the misuse or bad installation that can be done, there is a high risk of putting the clock running.
 
 > Install at your own risk"
