@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/azagramac/customFirmware-AmazfitBip.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/azagra.me/customFirmware-AmazfitBip.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/azagramac/customFirmware-AmazfitBip.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/customFirmware-AmazfitBip.svg)
 
 # Custom Firmware by Mr Postman
 
