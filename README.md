@@ -8,10 +8,7 @@ Version: 1.1.5.16
 - Based on the firmware stock
 
 Requirements:
-- Hardware version only:
-	v0.11.19.5
-	v0.11.2.4
-	v0.11.2.5
+- Hardware version only: v0.11.19.5, v0.11.2.4, v0.11.2.5
 - Latest official firmware version installed from App Mi Fit (Google Play)
 
 Tutorial:
