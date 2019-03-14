@@ -9,7 +9,7 @@
 
 **Requirements:**
 - Hardware version only: v0.11.19.5, v0.11.2.4, v0.11.2.5
-- Latest official firmware version installed from App [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health)
+- Latest official firmware version installed from App [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health) Google Play version.
 
 **Tutorial:**
 - Unlink clock from the My Fit App
