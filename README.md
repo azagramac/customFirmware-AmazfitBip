@@ -25,6 +25,6 @@ Screeshots:
 Coming soon!
 
 Legal:
-"The unofficial firmware, or Mr. Postman, or AzagraMac, are not responsible for the misuse or bad installation that can be done, there is a high risk of putting the clock running."
+> The unofficial firmware, or Mr. Postman, or AzagraMac, are not responsible for the misuse or bad installation that can be done, there is a high risk of putting the clock running.
 
-Install at your own risk"
+> Install at your own risk"
