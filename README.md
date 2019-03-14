@@ -9,11 +9,11 @@
 
 **Requirements:**
 - Hardware version only: v0.11.19.5, v0.11.2.4, v0.11.2.5
-- Latest official firmware version installed from App Mi Fit (Google Play)
+- Latest official firmware version installed from App [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health)
 
 **Tutorial:**
 - Unlink clock from the My Fit App
-- Install following an order, with the App Notify & Fitness for Amazfit
+- Install following an order, with the App [Notify & Fitness for Amazfit](https://play.google.com/store/apps/details?id=com.mc.amazfit1)
 ```sh
 ES_11512_MrPostman.res (md5: 320811b4bd8bdddd9f37aed393d48d07)
 ES_Google_MrPostman.ft (md5: 11314c2d3f3e6a0898f97eb0201f2d5b)
