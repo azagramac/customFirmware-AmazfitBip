@@ -23,10 +23,10 @@ ES_11512_MrPostman.res (md5: 320811b4bd8bdddd9f37aed393d48d07)
 ES_Google_MrPostman.ft (md5: 11314c2d3f3e6a0898f97eb0201f2d5b)
 ES_11516A_MrPostman.fw (md5: b66ef6aabadc50c068391865b9a5abcb)
 ```
-
 - Info: Do not use the My Fit App version Google Play, use the version of Mr Postman.
 
 Screeshots:
+Coming soon!
 
 Legal:
 "Unofficial firmware, or Mr Postman, or AzagraMac, are responsible for the misuse or bad installation that can be made, there is a high risk of bricking the clock.
